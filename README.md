@@ -1,7 +1,7 @@
 # Flash
 Flash Card
 
-[Figma](https://www.figma.com/file/jjrdXt8b7CAetN5kco30E1/Flash?type=design&node-id=0-1&mode=design&t=SceN55J7aEkx8eWM-0)
+[Figma](https://www.figma.com/file/hLBGp6FKp4dPZE0Nu50ZOk/Flash?type=design&node-id=12-446&mode=design&t=R6MA10mD4TctQqfT-0ls)
 
 [Excalidraw](https://excalidraw.com/)
 
